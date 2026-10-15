@@ -1,2 +1,2 @@
 # github-actions-repo-sl
-hi
+Sample github action tried
